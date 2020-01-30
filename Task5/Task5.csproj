@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{048DB81B-F39E-40E3-8240-2BF6137D3956}</ProjectGuid>
+    <ProjectGuid>{5CBAF096-6620-4531-99C8-8FFA303DB8DE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Epam_asp_net_mvs_course</RootNamespace>
-    <AssemblyName>Epam-asp-net-mvs-course</AssemblyName>
+    <RootNamespace>Task5</RootNamespace>
+    <AssemblyName>Task5</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
